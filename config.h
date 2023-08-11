@@ -1,4 +1,4 @@
-#define OV7670_REG_NUM  115
+#define OV7670_REG_NUM  115 //123
 const char OV7670_reg[166][2]={
   {0x67,0xaa},
 {0x68,0x55},
